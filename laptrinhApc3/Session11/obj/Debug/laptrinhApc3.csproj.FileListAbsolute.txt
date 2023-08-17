@@ -1,0 +1,16 @@
+D:\fap\Session11\Session11\obj\Debug\laptrinhApc3.csproj.AssemblyReference.cache
+D:\fap\Session11\Session11\obj\Debug\laptrinhApc3.csproj.SuggestedBindingRedirects.cache
+D:\fap\Session11\Session11\obj\Debug\laptrinhApc3.csproj.CoreCompileInputs.cache
+D:\fap\Session11\Session11\bin\Debug\Session11.exe.config
+D:\fap\Session11\Session11\bin\Debug\Session11.exe
+D:\fap\Session11\Session11\bin\Debug\Session11.pdb
+D:\fap\Session11\Session11\obj\Debug\Session11.exe
+D:\fap\Session11\Session11\obj\Debug\Session11.pdb
+D:\fap\Apc\laptrinhApc3\Session11\obj\Debug\laptrinhApc3.csproj.AssemblyReference.cache
+D:\fap\Apc\laptrinhApc3\Session11\obj\Debug\laptrinhApc3.csproj.SuggestedBindingRedirects.cache
+D:\fap\Apc\laptrinhApc3\Session11\obj\Debug\laptrinhApc3.csproj.CoreCompileInputs.cache
+D:\fap\Apc\laptrinhApc3\Session11\obj\Debug\Session11.exe
+D:\fap\Apc\laptrinhApc3\Session11\obj\Debug\Session11.pdb
+D:\fap\Apc\laptrinhApc3\Session11\bin\Debug\Session11.exe.config
+D:\fap\Apc\laptrinhApc3\Session11\bin\Debug\Session11.exe
+D:\fap\Apc\laptrinhApc3\Session11\bin\Debug\Session11.pdb
